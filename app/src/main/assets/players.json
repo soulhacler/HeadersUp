@@ -1,0 +1,4827 @@
+{
+ "version": 1,
+ "players": [
+  {
+   "name": "Aaron Lennon",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Aaron Ramsdale",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Abedi Pelé",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Abel Xavier",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Achraf Hakimi",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Adam Lallana",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Adam Wharton",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Ade Akinbiyi",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Adebayo Akinfenwa",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Adel Taarabt",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Ademola Lookman",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Adriano",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Afonso Alves",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Alan Shearer",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Alan Smith",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Alejandro Garnacho",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Alessandro Bastoni",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Alessandro Costacurta",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Alessandro Del Piero",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Alessandro Nesta",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Alex Oxlade-Chamberlain",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Alexander Isak",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Alexander Sørloth",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Alexandre Pato",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Alexis Mac Allister",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Alexis Sánchez",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Alfredo Di Stéfano",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Ali Daei",
+   "tags": [
+    "world_legend",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Ali Dia",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Aliou Cissé",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Alisson Becker",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Alphonso Davies",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Amr Zaki",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Anderson",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Andrea Dossena",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Andrea Pirlo",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Andreas Brehme",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Andrey Arshavin",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Andriy Shevchenko",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Andriy Voronin",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Andros Townsend",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "André Onana",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "André Santos",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Andrés Iniesta",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Andy Carroll",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Andy Cole",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Andy Robertson",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Anthony Gordon",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Anthony Vanden Borre",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Antoine Griezmann",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Antoine Semenyo",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Antonio Rüdiger",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Antonio Valencia",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Arda Güler",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Ariel Ortega",
+   "tags": [
+    "world_legend",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Arjen Robben",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Asamoah Gyan",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Ashley Cole",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Ashley Williams",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Ashley Young",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Aurélien Tchouaméni",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Bafétimbi Gomis",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Bastian Schweinsteiger",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Bebeto",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Ben Foster",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Ben White",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Benito Carbone",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Benjamin Šeško",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Benjani",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Benni McCarthy",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Benoît Assou-Ekotto",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Bernardo Silva",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Bobby Charlton",
+   "tags": [
+    "world_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Bobby Convey",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Bobby Moore",
+   "tags": [
+    "world_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Bobby Zamora",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Brad Friedel",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Bradley Barcola",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Brahim Díaz",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Brian Laudrup",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Brian McBride",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Bruno Cheyrou",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Bruno Fernandes",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Bruno Guimarães",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Bruno N'Gotty",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Bryan Mbeumo",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Bryan Robson",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Bukayo Saka",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Bébé",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Cafu",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Callum Wilson",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Cameron Jerome",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Carles Puyol",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Carlos Tevez",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Carlos Valderrama",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Carlos Vela",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Carlton Cole",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Carlton Palmer",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Casemiro",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Celestine Babayaro",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Cesc Fàbregas",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Charlie Adam",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Charlie Austin",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Cheick Tioté",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Chris Kirkland",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Chris Smalling",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Chris Sutton",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Chris Waddle",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Chris Wood",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Christian Benteke",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Christian Eriksen",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Christian Fuchs",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Christian Karembeu",
+   "tags": [
+    "world_legend",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Christian Pulisic",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Christian Vieri",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Christopher Nkunku",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Clarence Seedorf",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Claude Makélélé",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Claudio Caniggia",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Clint Dempsey",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Cody Gakpo",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Cole Palmer",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Collins John",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Conor Gallagher",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Craig Bellamy",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Cristian Romero",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Cristiano Ronaldo",
+   "tags": [
+    "current",
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Cuauhtémoc Blanco",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Curtis Jones",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Dani Alves",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Dani Carvajal",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Dani Olmo",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Daniel Passarella",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Daniel Sturridge",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Danny Drinkwater",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Danny Ings",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Danny Mills",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Danny Murphy",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Danny Rose",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Danny Welbeck",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Darius Vassell",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Darren Bent",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Darwin Núñez",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "David Beckham",
+   "tags": [
+    "premier_league_legend",
+    "world_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "David Ginola",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "David James",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "David Platt",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "David Raya",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "David Seaman",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "David Silva",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "David Villa",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Davor Šuker",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Dean Ashton",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Dean Windass",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Declan Rice",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Deco",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Dejan Kulusevski",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Dejan Stanković",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Dele Alli",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Demba Ba",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Denis Irwin",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Denis Law",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Dennis Bergkamp",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Dennis Wise",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Diafra Sakho",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Didier Deschamps",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Didier Drogba",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Diego Forlán",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Diego Maradona",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Diego Simeone",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Dietmar Hamann",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Dimitar Berbatov",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Dimitri Payet",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Dino Zoff",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Diogo Jota",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Diomansy Kamara",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Dion Dublin",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Dirk Kuyt",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Djibril Cissé",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Dominic Solanke",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Dominik Szoboszlai",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Dong Fangzhuo",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Duncan Ferguson",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Dunga",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Dušan Vlahović",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Dwight Yorke",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Désiré Doué",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Eberechi Eze",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Eden Hazard",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Ederson",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Edgar Davids",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Edin Džeko",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Edinson Cavani",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Eduardo Camavinga",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Edwin van der Sar",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Eiður Guðjohnsen",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "El Hadji Diouf",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Elano",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Elías Figueroa",
+   "tags": [
+    "world_legend",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Emile Heskey",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Emiliano Martínez",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Emmanuel Adebayor",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Emmanuel Eboué",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Emmanuel Petit",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Emre Belözoğlu",
+   "tags": [
+    "world_legend",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Endrick",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Enner Valencia",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Enzo Fernández",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Enzo Francescoli",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Eric Cantona",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Eric Dier",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Eric Djemba-Djemba",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Erik Lamela",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Erling Haaland",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Eusébio",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Ezri Konsa",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Fabian Delph",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Fabien Barthez",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Fabio Borini",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Fabio Cannavaro",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Fabricio Coloccini",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Fabrizio Ravanelli",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Faustino Asprilla",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Federico Chiesa",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Federico Fazio",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Federico Macheda",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Federico Valverde",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Ferenc Puskás",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Fernandinho",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Fernando Hierro",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Fernando Redondo",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Fernando Torres",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Filippo Inzaghi",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Florent Malouda",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Florian Wirtz",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Francesco Totti",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Francis Jeffers",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Franck Ribéry",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Franco Baresi",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Frank Lampard",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Frank Leboeuf",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Frank Rijkaard",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Franz Beckenbauer",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Freddie Ljungberg",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Frenkie de Jong",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Frédéric Kanouté",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Gabriel Batistuta",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Gabriel Heinze",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Gabriel Jesus",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Gabriel Magalhães",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Gabriel Martinelli",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Gabriel Obertan",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Gaizka Mendieta",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Gareth Bale",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Gareth Barry",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Gareth Southgate",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Garrincha",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Gary Cahill",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Gary Lineker",
+   "tags": [
+    "world_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Gary McAllister",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Gary Neville",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Gary O'Neil",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Gary Speed",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Gavi",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Gennaro Gattuso",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Geoff Hurst",
+   "tags": [
+    "world_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "George Best",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "George Weah",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Georgi Kinkladze",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Gerard Piqué",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Gerd Müller",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Gervinho",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Gheorghe Hagi",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Gianfranco Zola",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Gianluca Vialli",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Gianluigi Buffon",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Gianluigi Donnarumma",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Glen Johnson",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Glenn Hoddle",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Glenn Murray",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Glenn Whelan",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Gordon Banks",
+   "tags": [
+    "world_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Graeme Le Saux",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Granit Xhaka",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Grant Holt",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Gylfi Sigurðsson",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Gábor Király",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Hakan Şükür",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Harry Kane",
+   "tags": [
+    "current",
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Harry Kewell",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Harry Maguire",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Hatem Ben Arfa",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Henrik Larsson",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Hernán Crespo",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Hidetoshi Nakata",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Hristo Stoichkov",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Hugo Ekitiké",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Hugo Lloris",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Hugo Rodallega",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Hugo Sánchez",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Hugo Viana",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Hélder Postiga",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Iago Aspas",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Ian Rush",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Ian Wright",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Igor Bišćan",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Iker Casillas",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Ivan Campo",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Ivan Perišić",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Ivan Rakitić",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Ivan Toney",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Iván Zamorano",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "İlkay Gündoğan",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Jaap Stam",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Jack Grealish",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Jack Wilshere",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Jairzinho",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Jamal Musiala",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "James Maddison",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "James Milner",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "James Rodríguez",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Jamie Carragher",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Jamie Redknapp",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Jamie Vardy",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Jan Oblak",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Jan Vertonghen",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Jari Litmanen",
+   "tags": [
+    "world_legend",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Jarrod Bowen",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Jason Puncheon",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Javier Hernández",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Javier Mascherano",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Javier Zanetti",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Jay Bothroyd",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Jay Spearing",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Jay-Jay Okocha",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Jean-Philippe Mateta",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Jean-Pierre Papin",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Jermain Defoe",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Jermaine Jenas",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Jermaine Pennant",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Jerzy Dudek",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Jesper Grønkjær",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Jesse Lingard",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Ji Dong-won",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Jimmy Bullard",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Jimmy Greaves",
+   "tags": [
+    "world_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Jlloyd Samuel",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Joe Allen",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Joe Cole",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Joe Hart",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Joelinton",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Joey Barton",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Johan Cruyff",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Johan Neeskens",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "John Barnes",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "John McGinn",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "John Stones",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "John Terry",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Joleon Lescott",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Jonathan David",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Jonathan Walters",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Jonathan Woodgate",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Jonás Gutiérrez",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Jordan Henderson",
+   "tags": [
+    "current",
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Jordan Pickford",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Jordan Rhodes",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Jordi Gómez",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Jordon Ibe",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Joshua Kimmich",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Jozy Altidore",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "João Félix",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "João Neves",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Joško Gvardiol",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Juan Mata",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Juan Pablo Ángel",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Juan Román Riquelme",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Juan Sebastián Verón",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Jude Bellingham",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Jules Koundé",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Julio Arca",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Julián Álvarez",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Juninho Paulista",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Juninho Pernambucano",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Just Fontaine",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Jérémy Doku",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Jô",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Jürgen Klinsmann",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Kai Havertz",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Kaká",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Kaoru Mitoma",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Karim Benzema",
+   "tags": [
+    "current",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Karl-Heinz Rummenigge",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Kasper Schmeichel",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Kenan Yıldız",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Kenny Dalglish",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Kenwyne Jones",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Kevin Campbell",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Kevin Davies",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Kevin De Bruyne",
+   "tags": [
+    "current",
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Kevin Keegan",
+   "tags": [
+    "world_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Kevin Nolan",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Kevin Phillips",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Kevin Schade",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Kevin-Prince Boateng",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Khalid Boulahrouz",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Khvicha Kvaratskhelia",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Ki Sung-yueng",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Kieran Trippier",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Kieron Dyer",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Kim Min-jae",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Kingsley Coman",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Kléberson",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Kobbie Mainoo",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Kolo Touré",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Kyle Walker",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Kylian Mbappé",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Lamine Yamal",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Landon Donovan",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Lauren",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Laurent Blanc",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Lautaro Martínez",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Lazar Marković",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Leandro Trossard",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Ledley King",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Lee Bowyer",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Lee Carsley",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Lee Cattermole",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Lee Chung-yong",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Lee Dixon",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Leighton Baines",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Leon Britton",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Leon Osman",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Leonardo Ulloa",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Leroy Sané",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Les Ferdinand",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Lev Yashin",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Levi Colwill",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Lewis Holtby",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Lilian Thuram",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Lionel Messi",
+   "tags": [
+    "current",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Lisandro Martínez",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Lomana LuaLua",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Lothar Matthäus",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Lucas Leiva",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Lucas Paquetá",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Lucas Radebe",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Luis Díaz",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Luis García",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Luis Suárez",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Luka Modrić",
+   "tags": [
+    "current",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Luke Shaw",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Luís Boa Morte",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Luís Figo",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Maniche",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Manuel Neuer",
+   "tags": [
+    "current",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Marc Albrighton",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Marc Cucurella",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Marc Guéhi",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Marc-André ter Stegen",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Marcel Desailly",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Marcelo",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Marco Materazzi",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Marco Reus",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Marco van Basten",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Marcus Bent",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Marcus Rashford",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Marcus Thuram",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Mario Balotelli",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Mario Götze",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Mario Kempes",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Mario Mandžukić",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Mark Bosnich",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Mark Viduka",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Marko Arnautović",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Marlon Harewood",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Marouane Chamakh",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Marouane Fellaini",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Martin Keown",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Martin Ødegaard",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Martín Zubimendi",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Mason Mount",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Massimo Taibi",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Mateja Kežman",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Mateo Kovačić",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Matheus Cunha",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Matt Jarvis",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Matt Le Tissier",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Matthew Upson",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Mauro Camoranesi",
+   "tags": [
+    "world_legend",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Maynor Figueroa",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Mesut Özil",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Michael Ballack",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Michael Bridges",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Michael Carrick",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Michael Dawson",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Michael Essien",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Michael Laudrup",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Michael Olise",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Michael Owen",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Michael Ricketts",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Michel Platini",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Michu",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Micky van de Ven",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Mido",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Mikaël Silvestre",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Mike Maignan",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Mikel Arteta",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Mikel Merino",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Mikel Oyarzabal",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Milan Baroš",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Mile Jedinak",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Miroslav Klose",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Mohamed Aboutrika",
+   "tags": [
+    "world_legend",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Mohamed Diamé",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Mohamed Salah",
+   "tags": [
+    "current",
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Mohammed Kudus",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Moisés Caicedo",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Morgan Gibbs-White",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Morgan Rogers",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Mousa Dembélé",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Moussa Sissoko",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "N'Golo Kanté",
+   "tags": [
+    "current",
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Nacer Chadli",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Nathan Dyer",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Nemanja Matić",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Nemanja Vidić",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Neymar",
+   "tags": [
+    "current",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Niall Quinn",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Nick Barmby",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Nick Pope",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Nicklas Bendtner",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Nicky Butt",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Nico Williams",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Nicolas Anelka",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Nicolas Jackson",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Nicolò Barella",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Nigel Martyn",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Nigel Winterburn",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Nikola Žigić",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Nolberto Solano",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Nuno Mendes",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Nwankwo Kanu",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Obafemi Martins",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Ole Gunnar Solskjær",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Oliver Kahn",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Olivier Dacourt",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Olivier Giroud",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Ollie Watkins",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Omar Marmoush",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Oscar",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Ousmane Dembélé",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Owen Hargreaves",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Pablo Aimar",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Pablo Zabaleta",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Paolo Di Canio",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Paolo Maldini",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Paolo Rossi",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Papa Bouba Diop",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Papiss Cissé",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Park Chu-young",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Park Ji-sung",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Pascal Cygan",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Pascal Groß",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Patrice Evra",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Patrick Kluivert",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Patrick Vieira",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Patrik Berger",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Paul Breitner",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Paul Gascoigne",
+   "tags": [
+    "world_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Paul Ince",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Paul Merson",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Paul Robinson",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Paul Scholes",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Paulinho",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Paulo Dybala",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Paulo Ferreira",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Paulo Wanchope",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Pavel Nedvěd",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Pedri",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Pedro Neto",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Pedro Pauleta",
+   "tags": [
+    "world_legend",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Pelé",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Per Mertesacker",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Peter Beardsley",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Peter Crouch",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Peter Ndlovu",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Peter Odemwingie",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Peter Schmeichel",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Peter Shilton",
+   "tags": [
+    "world_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Petr Čech",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Phil Foden",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Phil Jagielka",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Phil Jones",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Phil Neville",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Philipp Lahm",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Philippe Coutinho",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Philippe Senderos",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Radamel Falcao",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Rafael Leão",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Rafael Márquez",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Rafael van der Vaart",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Raheem Sterling",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Ramires",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Randal Kolo Muani",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Raphinha",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Rasmus Højlund",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Ray Parlour",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Rayan Cherki",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Raúl",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Reece James",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "René Higuita",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Ricardo Carvalho",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Ricardo Fuller",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Rickie Lambert",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Rico Lewis",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Rio Ferdinand",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Rivaldo",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Rivellino",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Riyad Mahrez",
+   "tags": [
+    "current",
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Rob Lee",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Robbie Fowler",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Robbie Keane",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Robert Green",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Robert Huth",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Robert Lewandowski",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Robert Pires",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Roberto Baggio",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Roberto Carlos",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Roberto Firmino",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Roberto Soldado",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Robin van Persie",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Robinho",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Rodri",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Rodrygo",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Roger Milla",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Romelu Lukaku",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Romário",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Ronald Araújo",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Ronald Koeman",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Ronaldinho",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Ronaldo Nazário",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Roque Santa Cruz",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Rory Delap",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Ross Barkley",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Roy Keane",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Royston Drenthe",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Rudi Völler",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Rui Costa",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Ruud Gullit",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Ruud van Nistelrooy",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Ryan Babel",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Ryan Giggs",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Ryan Shawcross",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Rúben Dias",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Rüştü Reçber",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Sadio Mané",
+   "tags": [
+    "current",
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Saido Berahino",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Salif Diao",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Salomon Kalou",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Sami Hyypiä",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Samir Nasri",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Samuel Eto'o",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Sandro Tonali",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Santi Cazorla",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Savinho",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Scott Carson",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Scott McTominay",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Scott Parker",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Scott Sinclair",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Seamus Coleman",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Sepp Maier",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Serge Gnabry",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Sergei Rebrov",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Sergio Agüero",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Sergio Busquets",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Sergio Ramos",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Seth Johnson",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Shane Long",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Shaun Wright-Phillips",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Shay Given",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Shinji Kagawa",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Shinji Okazaki",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Shola Ameobi",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Shunsuke Nakamura",
+   "tags": [
+    "world_legend",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Sol Campbell",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Son Heung-min",
+   "tags": [
+    "current",
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Sone Aluko",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Stanley Matthews",
+   "tags": [
+    "world_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Steed Malbranque",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Stelios Giannakopoulos",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Stephen Ireland",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Steve Finnan",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Steve Marlet",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Steve McManaman",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Steve Sidwell",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Steven Gerrard",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Steven Pienaar",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Stewart Downing",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Stuart Pearce",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Stéphane Henchoz",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Sócrates",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Takefusa Kubo",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Tammy Abraham",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Taribo West",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Teddy Sheringham",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Temuri Ketsbaia",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Teófilo Cubillas",
+   "tags": [
+    "world_legend",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Theo Walcott",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Thiago Silva",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Thibaut Courtois",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Thierry Henry",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Thomas Gravesen",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Thomas Müller",
+   "tags": [
+    "current",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Tiago Mendes",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Tim Cahill",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Tim Howard",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Toby Alderweireld",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Tom Finney",
+   "tags": [
+    "england"
+   ]
+  },
+  {
+   "name": "Tomas Brolin",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Toni Kroos",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Tony Adams",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Tony Hibbert",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Tore André Flo",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Trent Alexander-Arnold",
+   "tags": [
+    "current",
+    "england"
+   ]
+  },
+  {
+   "name": "Trevor Sinclair",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Troy Deeney",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Ugo Ehiogu",
+   "tags": [
+    "england",
+    "difficult"
+   ]
+  },
+  {
+   "name": "Uwe Seeler",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Valeri Bojinov",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Vedran Ćorluka",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Victor Anichebe",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Victor Osimhen",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Victor Wanyama",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Viktor Gyökeres",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Vincent Kompany",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Vinícius Júnior",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Virgil van Dijk",
+   "tags": [
+    "current",
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "Vitinha",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Vlad Chiricheș",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Vladimír Šmicer",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Wayne Rooney",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Wayne Routledge",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Wes Brown",
+   "tags": [
+    "premier_league_legend",
+    "england"
+   ]
+  },
+  {
+   "name": "Wes Morgan",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Wesley Sneijder",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Weston McKennie",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Wilfried Bony",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Wilfried Zaha",
+   "tags": [
+    "premier_league_legend"
+   ]
+  },
+  {
+   "name": "William Saliba",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Winston Bogarde",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Xabi Alonso",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Xavi Hernández",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Xavi Simons",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Yakubu",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Yannick Bolasie",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Yaya Sanogo",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Yaya Touré",
+   "tags": [
+    "premier_league_legend",
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Yoane Wissa",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Yohan Cabaye",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Younès Kaboul",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Youri Djorkaeff",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Zico",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Zinedine Zidane",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Zlatan Ibrahimović",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Zvonimir Boban",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Álvaro Morata",
+   "tags": [
+    "current"
+   ]
+  },
+  {
+   "name": "Ángel Di María",
+   "tags": [
+    "world_legend"
+   ]
+  },
+  {
+   "name": "Ángel Rangel",
+   "tags": [
+    "difficult"
+   ]
+  },
+  {
+   "name": "Étienne Capoue",
+   "tags": [
+    "difficult"
+   ]
+  }
+ ]
+}

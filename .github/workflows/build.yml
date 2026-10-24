@@ -1,0 +1,50 @@
+name: Build APK
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate player database
+        run: python3 tools/validate_players.py
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - uses: gradle/actions/setup-gradle@v4
+
+      - name: Build debug APK
+        run: ./gradlew --no-daemon assembleDebug
+
+      - name: Rename APK
+        run: cp app/build/outputs/apk/debug/app-debug.apk HeadersUp-debug.apk
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: HeadersUp-debug-apk
+          path: HeadersUp-debug.apk
+
+      # Publish the APK on the Releases page so it can be downloaded straight to a phone.
+      - name: Publish "latest" release
+        if: github.event_name != 'pull_request' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release delete latest --yes --cleanup-tag || true
+          gh release create latest HeadersUp-debug.apk \
+            --title "HeadersUp (latest debug build)" \
+            --notes "Debug APK built from ${GITHUB_SHA::7}. Download HeadersUp-debug.apk on your phone and open it to install." \
+            --target "$GITHUB_SHA" \
+            --prerelease
