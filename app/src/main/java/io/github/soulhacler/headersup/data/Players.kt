@@ -9,6 +9,7 @@ data class Player(val name: String, val tags: Set<String>)
 /** The categories a round can be played with. [tag] matches the tags in players.json. */
 enum class Category(val title: String, val subtitle: String, val tag: String?) {
     ALL("All Players", "Everyone in the squad", null),
+    HOUSEHOLD_NAMES("Household Names", "Everyone knows these", "famous"),
     PREMIER_LEAGUE_LEGENDS("Premier League Legends", "Icons of the PL era", "premier_league_legend"),
     CURRENT_STARS("Current Stars", "Today's big names", "current"),
     WORLD_LEGENDS("World Football Legends", "Greats from every continent", "world_legend"),

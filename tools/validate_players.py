@@ -5,7 +5,7 @@ import pathlib
 import sys
 
 PATH = pathlib.Path(__file__).resolve().parent.parent / "app/src/main/assets/players.json"
-TAGS = {"current", "premier_league_legend", "world_legend", "england", "difficult"}
+TAGS = {"famous", "current", "premier_league_legend", "world_legend", "england", "difficult"}
 
 data = json.loads(PATH.read_text(encoding="utf-8"))
 players = data["players"]

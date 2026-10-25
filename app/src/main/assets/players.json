@@ -86,6 +86,7 @@
   {
    "name": "Alan Shearer",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -118,6 +119,7 @@
   {
    "name": "Alessandro Del Piero",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -222,6 +224,7 @@
   {
    "name": "Andrea Pirlo",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -240,6 +243,7 @@
   {
    "name": "Andriy Shevchenko",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -271,6 +275,7 @@
   {
    "name": "Andrés Iniesta",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -310,6 +315,7 @@
   {
    "name": "Antoine Griezmann",
    "tags": [
+    "famous",
     "current"
    ]
   },
@@ -360,6 +366,7 @@
   {
    "name": "Ashley Cole",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -453,6 +460,7 @@
   {
    "name": "Bobby Charlton",
    "tags": [
+    "famous",
     "world_legend",
     "england"
    ]
@@ -466,6 +474,7 @@
   {
    "name": "Bobby Moore",
    "tags": [
+    "famous",
     "world_legend",
     "england"
    ]
@@ -516,6 +525,7 @@
   {
    "name": "Bruno Fernandes",
    "tags": [
+    "famous",
     "current"
    ]
   },
@@ -546,6 +556,7 @@
   {
    "name": "Bukayo Saka",
    "tags": [
+    "famous",
     "current",
     "england"
    ]
@@ -577,6 +588,7 @@
   {
    "name": "Carles Puyol",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -758,6 +770,7 @@
   {
    "name": "Cole Palmer",
    "tags": [
+    "famous",
     "current",
     "england"
    ]
@@ -790,6 +803,7 @@
   {
    "name": "Cristiano Ronaldo",
    "tags": [
+    "famous",
     "current",
     "premier_league_legend",
     "world_legend"
@@ -902,6 +916,7 @@
   {
    "name": "David Beckham",
    "tags": [
+    "famous",
     "premier_league_legend",
     "world_legend",
     "england"
@@ -935,6 +950,7 @@
   {
    "name": "David Seaman",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -942,6 +958,7 @@
   {
    "name": "David Silva",
    "tags": [
+    "famous",
     "premier_league_legend",
     "world_legend"
    ]
@@ -974,6 +991,7 @@
   {
    "name": "Declan Rice",
    "tags": [
+    "famous",
     "current",
     "england"
    ]
@@ -1023,6 +1041,7 @@
   {
    "name": "Dennis Bergkamp",
    "tags": [
+    "famous",
     "premier_league_legend",
     "world_legend"
    ]
@@ -1048,6 +1067,7 @@
   {
    "name": "Didier Drogba",
    "tags": [
+    "famous",
     "premier_league_legend",
     "world_legend"
    ]
@@ -1061,6 +1081,7 @@
   {
    "name": "Diego Maradona",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -1184,6 +1205,7 @@
   {
    "name": "Eden Hazard",
    "tags": [
+    "famous",
     "premier_league_legend"
    ]
   },
@@ -1314,6 +1336,7 @@
   {
    "name": "Eric Cantona",
    "tags": [
+    "famous",
     "premier_league_legend",
     "world_legend"
    ]
@@ -1339,12 +1362,14 @@
   {
    "name": "Erling Haaland",
    "tags": [
+    "famous",
     "current"
    ]
   },
   {
    "name": "Eusébio",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -1449,6 +1474,7 @@
   {
    "name": "Fernando Torres",
    "tags": [
+    "famous",
     "premier_league_legend",
     "world_legend"
    ]
@@ -1474,6 +1500,7 @@
   {
    "name": "Francesco Totti",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -1499,6 +1526,7 @@
   {
    "name": "Frank Lampard",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -1518,6 +1546,7 @@
   {
    "name": "Franz Beckenbauer",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -1542,6 +1571,7 @@
   {
    "name": "Gabriel Batistuta",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -1584,6 +1614,7 @@
   {
    "name": "Gareth Bale",
    "tags": [
+    "famous",
     "premier_league_legend",
     "world_legend"
    ]
@@ -1598,6 +1629,7 @@
   {
    "name": "Gareth Southgate",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -1618,6 +1650,7 @@
   {
    "name": "Gary Lineker",
    "tags": [
+    "famous",
     "world_legend",
     "england"
    ]
@@ -1631,6 +1664,7 @@
   {
    "name": "Gary Neville",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -1662,6 +1696,7 @@
   {
    "name": "Geoff Hurst",
    "tags": [
+    "famous",
     "world_legend",
     "england"
    ]
@@ -1669,6 +1704,7 @@
   {
    "name": "George Best",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -1711,6 +1747,7 @@
   {
    "name": "Gianfranco Zola",
    "tags": [
+    "famous",
     "premier_league_legend",
     "world_legend"
    ]
@@ -1724,6 +1761,7 @@
   {
    "name": "Gianluigi Buffon",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -1761,6 +1799,7 @@
   {
    "name": "Gordon Banks",
    "tags": [
+    "famous",
     "world_legend",
     "england"
    ]
@@ -1805,6 +1844,7 @@
   {
    "name": "Harry Kane",
    "tags": [
+    "famous",
     "current",
     "premier_league_legend",
     "england"
@@ -1906,6 +1946,7 @@
   {
    "name": "Ian Wright",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -1919,6 +1960,7 @@
   {
    "name": "Iker Casillas",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -1968,6 +2010,7 @@
   {
    "name": "Jack Grealish",
    "tags": [
+    "famous",
     "current",
     "england"
    ]
@@ -2014,6 +2057,7 @@
   {
    "name": "Jamie Carragher",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -2028,6 +2072,7 @@
   {
    "name": "Jamie Vardy",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -2212,6 +2257,7 @@
   {
    "name": "Johan Cruyff",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -2224,6 +2270,7 @@
   {
    "name": "John Barnes",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -2244,6 +2291,7 @@
   {
    "name": "John Terry",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -2290,6 +2338,7 @@
   {
    "name": "Jordan Pickford",
    "tags": [
+    "famous",
     "current",
     "england"
    ]
@@ -2369,6 +2418,7 @@
   {
    "name": "Jude Bellingham",
    "tags": [
+    "famous",
     "current",
     "england"
    ]
@@ -2437,6 +2487,7 @@
   {
    "name": "Kaká",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -2449,6 +2500,7 @@
   {
    "name": "Karim Benzema",
    "tags": [
+    "famous",
     "current",
     "world_legend"
    ]
@@ -2474,6 +2526,7 @@
   {
    "name": "Kenny Dalglish",
    "tags": [
+    "famous",
     "premier_league_legend",
     "world_legend"
    ]
@@ -2500,6 +2553,7 @@
   {
    "name": "Kevin De Bruyne",
    "tags": [
+    "famous",
     "current",
     "premier_league_legend"
    ]
@@ -2507,6 +2561,7 @@
   {
    "name": "Kevin Keegan",
    "tags": [
+    "famous",
     "world_legend",
     "england"
    ]
@@ -2609,12 +2664,14 @@
   {
    "name": "Kylian Mbappé",
    "tags": [
+    "famous",
     "current"
    ]
   },
   {
    "name": "Lamine Yamal",
    "tags": [
+    "famous",
     "current"
    ]
   },
@@ -2760,6 +2817,7 @@
   {
    "name": "Lionel Messi",
    "tags": [
+    "famous",
     "current",
     "world_legend"
    ]
@@ -2779,6 +2837,7 @@
   {
    "name": "Lothar Matthäus",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -2815,6 +2874,7 @@
   {
    "name": "Luis Suárez",
    "tags": [
+    "famous",
     "premier_league_legend",
     "world_legend"
    ]
@@ -2822,6 +2882,7 @@
   {
    "name": "Luka Modrić",
    "tags": [
+    "famous",
     "current",
     "world_legend"
    ]
@@ -2842,6 +2903,7 @@
   {
    "name": "Luís Figo",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -2854,6 +2916,7 @@
   {
    "name": "Manuel Neuer",
    "tags": [
+    "famous",
     "current",
     "world_legend"
    ]
@@ -2911,6 +2974,7 @@
   {
    "name": "Marco van Basten",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -2923,6 +2987,7 @@
   {
    "name": "Marcus Rashford",
    "tags": [
+    "famous",
     "current",
     "england"
    ]
@@ -3053,6 +3118,7 @@
   {
    "name": "Matt Le Tissier",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -3131,6 +3197,7 @@
   {
    "name": "Michael Owen",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -3145,6 +3212,7 @@
   {
    "name": "Michel Platini",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -3230,6 +3298,7 @@
   {
    "name": "Mohamed Salah",
    "tags": [
+    "famous",
     "current",
     "premier_league_legend"
    ]
@@ -3306,6 +3375,7 @@
   {
    "name": "Neymar",
    "tags": [
+    "famous",
     "current",
     "world_legend"
    ]
@@ -3415,12 +3485,14 @@
   {
    "name": "Ole Gunnar Solskjær",
    "tags": [
+    "famous",
     "premier_league_legend"
    ]
   },
   {
    "name": "Oliver Kahn",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -3489,6 +3561,7 @@
   {
    "name": "Paolo Maldini",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -3550,6 +3623,7 @@
   {
    "name": "Patrick Vieira",
    "tags": [
+    "famous",
     "premier_league_legend"
    ]
   },
@@ -3568,6 +3642,7 @@
   {
    "name": "Paul Gascoigne",
    "tags": [
+    "famous",
     "world_legend",
     "england"
    ]
@@ -3595,6 +3670,7 @@
   {
    "name": "Paul Scholes",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -3651,6 +3727,7 @@
   {
    "name": "Pelé",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -3670,6 +3747,7 @@
   {
    "name": "Peter Crouch",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -3689,6 +3767,7 @@
   {
    "name": "Peter Schmeichel",
    "tags": [
+    "famous",
     "premier_league_legend",
     "world_legend"
    ]
@@ -3703,12 +3782,14 @@
   {
    "name": "Petr Čech",
    "tags": [
+    "famous",
     "premier_league_legend"
    ]
   },
   {
    "name": "Phil Foden",
    "tags": [
+    "famous",
     "current",
     "england"
    ]
@@ -3778,6 +3859,7 @@
   {
    "name": "Raheem Sterling",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -3866,6 +3948,7 @@
   {
    "name": "Rio Ferdinand",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -3899,6 +3982,7 @@
   {
    "name": "Robbie Fowler",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -3925,6 +4009,7 @@
   {
    "name": "Robert Lewandowski",
    "tags": [
+    "famous",
     "current"
    ]
   },
@@ -3937,12 +4022,14 @@
   {
    "name": "Roberto Baggio",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
   {
    "name": "Roberto Carlos",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -4016,12 +4103,14 @@
   {
    "name": "Ronaldinho",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
   {
    "name": "Ronaldo Nazário",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -4046,6 +4135,7 @@
   {
    "name": "Roy Keane",
    "tags": [
+    "famous",
     "premier_league_legend"
    ]
   },
@@ -4070,6 +4160,7 @@
   {
    "name": "Ruud Gullit",
    "tags": [
+    "famous",
     "premier_league_legend",
     "world_legend"
    ]
@@ -4077,6 +4168,7 @@
   {
    "name": "Ruud van Nistelrooy",
    "tags": [
+    "famous",
     "premier_league_legend",
     "world_legend"
    ]
@@ -4090,6 +4182,7 @@
   {
    "name": "Ryan Giggs",
    "tags": [
+    "famous",
     "premier_league_legend"
    ]
   },
@@ -4225,6 +4318,7 @@
   {
    "name": "Sergio Agüero",
    "tags": [
+    "famous",
     "premier_league_legend",
     "world_legend"
    ]
@@ -4238,6 +4332,7 @@
   {
    "name": "Sergio Ramos",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -4295,6 +4390,7 @@
   {
    "name": "Sol Campbell",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -4302,6 +4398,7 @@
   {
    "name": "Son Heung-min",
    "tags": [
+    "famous",
     "current",
     "premier_league_legend"
    ]
@@ -4365,6 +4462,7 @@
   {
    "name": "Steven Gerrard",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -4460,6 +4558,7 @@
   {
    "name": "Thierry Henry",
    "tags": [
+    "famous",
     "premier_league_legend",
     "world_legend"
    ]
@@ -4473,6 +4572,7 @@
   {
    "name": "Thomas Müller",
    "tags": [
+    "famous",
     "current",
     "world_legend"
    ]
@@ -4517,12 +4617,14 @@
   {
    "name": "Toni Kroos",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
   {
    "name": "Tony Adams",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -4542,6 +4644,7 @@
   {
    "name": "Trent Alexander-Arnold",
    "tags": [
+    "famous",
     "current",
     "england"
    ]
@@ -4611,18 +4714,21 @@
   {
    "name": "Vincent Kompany",
    "tags": [
+    "famous",
     "premier_league_legend"
    ]
   },
   {
    "name": "Vinícius Júnior",
    "tags": [
+    "famous",
     "current"
    ]
   },
   {
    "name": "Virgil van Dijk",
    "tags": [
+    "famous",
     "current",
     "premier_league_legend"
    ]
@@ -4648,6 +4754,7 @@
   {
    "name": "Wayne Rooney",
    "tags": [
+    "famous",
     "premier_league_legend",
     "england"
    ]
@@ -4717,6 +4824,7 @@
   {
    "name": "Xavi Hernández",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
@@ -4747,6 +4855,7 @@
   {
    "name": "Yaya Touré",
    "tags": [
+    "famous",
     "premier_league_legend",
     "world_legend"
    ]
@@ -4784,12 +4893,14 @@
   {
    "name": "Zinedine Zidane",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },
   {
    "name": "Zlatan Ibrahimović",
    "tags": [
+    "famous",
     "world_legend"
    ]
   },

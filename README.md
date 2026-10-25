@@ -12,7 +12,7 @@ No accounts, no adverts, no in-app purchases and no internet needed.
 ## Features
 
 - More than 750 real footballers: current stars, retired players and legends from around the world
-- Six categories: All Players, Premier League Legends, Current Stars, World Football Legends, England Players and Difficult Players
+- Seven categories: All Players, Household Names, Premier League Legends, Current Stars, World Football Legends, England Players and Difficult Players
 - 30, 60 or 90 second rounds with an on-screen countdown
 - Tilt detection using the phone's gravity or accelerometer sensor, plus on-screen **Pass** and **Correct** buttons as a fallback
 - A sound and a vibration for every correct answer and pass
@@ -95,6 +95,7 @@ Edit `app/src/main/assets/players.json`. Each entry has a name and zero or more 
 | Tag | Category |
 | --- | --- |
 | *(any player)* | All Players |
+| `famous` | Household Names |
 | `premier_league_legend` | Premier League Legends |
 | `current` | Current Stars |
 | `world_legend` | World Football Legends |
